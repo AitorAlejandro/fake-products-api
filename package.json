@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "AitorAlejandro",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-cli": "^3.17.2"
+  }
 }
