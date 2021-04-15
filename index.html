@@ -28,6 +28,26 @@
         <button type="button" id="fetchAirtableSingleProduct">fetch airtable product</button>
       </div>
     </div>
+    <hr />
+    <div class="row">
+      <form id="createAirtableProduct">
+        <fieldset>
+          <label for="nameField">Name</label>
+          <input type="text" id="nameField" name="nameField">
+
+          <label for="descriptionField">Description</label>
+          <textarea id="descriptionField" name="descriptionField"></textarea>
+
+          <label for="imageField">Image url</label>
+          <input type="text" id="imageField" name="imageField">
+    
+          <label for="priceField">Price</label>
+          <input type="number" id="priceField" name="priceField">
+          
+          <button type="submit">Send</button>
+        </fieldset>
+      </form>
+    </div>
   </div>
   <script src="/js/index.js"></script>
 </body>
