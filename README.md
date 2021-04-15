@@ -4,7 +4,8 @@ This is just a testing project example of netlify serverless functions feature
 
 ## Demo
 
-Navigate to `https://fake-products-api.netlify.app/` and open your developer tools. You should see and array of 4 products on console.
+Navigate to `https://fake-products-api.netlify.app/` and open your developer tools.
+Click on different buttons and you should see and the responses of data on console.
 
 
 ## Testing locally
